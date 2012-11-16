@@ -2,6 +2,7 @@ donut
 =====
 
 A RaphaelJS plugin that creates a donut-like shape
+
 ![Screenshot](https://github.com/lobostome/donut/raw/master/example.png)
 
 ## Example
